@@ -1,2 +1,2 @@
-hello，美盈！
-hello，数据部！
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
